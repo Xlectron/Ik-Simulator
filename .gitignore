@@ -1,0 +1,9 @@
+# gradle + outputs:
+build/
+bin/
+.gradle/
+
+# jdtls:
+.settings/
+.classpath
+.project

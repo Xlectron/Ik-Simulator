@@ -1,4 +1,4 @@
-package org.example;
+package theseus.ftc;
 
 import javax.swing.*;
 import java.awt.*;

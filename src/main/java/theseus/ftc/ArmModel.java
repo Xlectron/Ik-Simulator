@@ -1,4 +1,4 @@
-package org.example;
+package theseus.ftc;
 
 public class ArmModel {
     //Distances all in mm
